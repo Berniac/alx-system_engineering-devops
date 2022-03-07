@@ -1,2 +1,2 @@
-#!/bin/bash 101-gifs 102-acrostic 103-the_biggest_fan
-find . -type f -empty
+#!/bin/bash 
+find . -empty | rev | cut -d '/' -f 1 | rev
