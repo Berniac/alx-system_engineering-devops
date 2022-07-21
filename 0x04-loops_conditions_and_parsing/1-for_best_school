@@ -2,5 +2,5 @@
 #creating a for
 for (( i = 0; i < 10; i++))
 do
-	 echo "Holberton School"
+	 echo "Best School"
 done
